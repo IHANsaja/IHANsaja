@@ -1,5 +1,7 @@
 ### Hey there, I'm Ihan Hansaja! 👋
 
+<img alt="banner" src="https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/banner.jpg" align="center"/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I am a tech enthusiast who loves to explore new technologies and develop software solutions.
