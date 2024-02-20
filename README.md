@@ -1,4 +1,7 @@
-### Hey there, I'm Ihan Hansaja! 👋
+<h1>
+  Hey there, I'm Ihan Hansaja!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <img alt="banner" src="https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/banner.jpg" align="center"/>
 
