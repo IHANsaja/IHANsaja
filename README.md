@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
 <img alt="banner" src="https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/banner.jpg" align="center"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -49,6 +50,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IHANsaja&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🗂️ &nbsp;Projects
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IHANsaja&repo=Freya-TheVoiceAssistant)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IHANsaja&repo=Cosmic-Crusade)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
