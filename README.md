@@ -14,8 +14,6 @@
 
 
 
-<img alt="Coding" src="https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
