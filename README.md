@@ -29,10 +29,14 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=1A73E8)\
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=1A73E8)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=FFD43B)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe_After_Effects-05122A?style=flat&logo=adobe-after-effects&logoColor=2C2255)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-05122A?style=flat&logo=adobe-premiere-pro&logoColor=9999FF)\
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=FF6600)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=000000)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
