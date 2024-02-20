@@ -14,7 +14,7 @@
 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/Coding.gif" align="right"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
