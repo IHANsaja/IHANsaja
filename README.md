@@ -1,88 +1,96 @@
----
-h1: "Hey there, I'm Ihan Hansaja! 👋"
-img: 
-  src: "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-  width: "30px"
+# 👋 Hey there, I'm Ihan Hansaja!
+
+![banner](https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/banner.jpg)
 
 ---
 
-<img alt="banner" src="https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/banner.jpg" align="center" style="width: 100%; border-radius: 12px;"/>
+## 🙋 About Me
+
+- 🎓 2nd Year Software Engineering undergraduate at **CINEC Campus**, Sri Lanka.
+- 🧠 Passionate about **AI**, **Machine Learning**, and **Problem Solving**.
+- 🛠️ Tech tinkerer & digital creator who loves innovation.
+- 🎮 In my downtime: **Graphic Design**, **Gaming**, and **Content Creation**.
+- 📫 Reach me at: [ihanhansaja5@gmail.com](mailto:ihanhansaja5@gmail.com)
+- 📄 [View My Résumé](#) *(Insert your link)*
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Tech Stack
 
-- 💡 Passionate about building impactful software and exploring cutting-edge technologies.
-- 🎓 Undergraduate in Software Engineering @ CINEC Campus, Sri Lanka.
-- 🤖 Interests: AI, Machine Learning, and Full Stack Development.
-- 🎮 Hobbies: Graphic Design, Gaming, and Content Creation.
-- 💌 Contact me at **ihanhansaja5@gmail.com** for collaborations or tech chats.
-- 📄 [View My Résumé](#) *(Add your resume link)*
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
+### 🌐 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🧰 Tech Toolbox
+### ☁️ Cloud & Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-```text
-Languages:       Python, JavaScript, Java, C, C++, R, HTML, CSS
-Tools:           Git, GitHub, Markdown, VS Code, IntelliJ, PyCharm, RStudio
-Design:          Adobe Illustrator, Photoshop, After Effects, Premiere Pro
-3D/VR Dev:       Blender, Unity
-```
+### 🧰 Tools & Tech
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" />
-  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3" />
-  <br/>
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" />
-  <br/>
-  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio" />
-  <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=1A73E8" />
-  <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=FFD43B" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" />
-  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" />
-  <img src="https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects&logoColor=2C2255" />
-  <img src="https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro&logoColor=9999FF" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=FF6600" />
-  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=000000" />
-</p>
+### 🧠 IDEs & Editors
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=yellow)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
+### 🎨 Creative Suite
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
+### 🕹️ 3D & Game Dev
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IHANsaja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IHANsaja&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IHANsaja&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHANsaja&layout=compact&theme=tokyonight&langs_count=8" height="180em"/>
 </p>
 
 ---
 
 ## 🧪 Featured Projects
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IHANsaja&repo=Freya-TheVoiceAssistant&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IHANsaja&repo=Cosmic-Crusade&theme=radical" />
+<p align="center">
+  <a href="https://github.com/IHANsaja/Freya-TheVoiceAssistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IHANsaja&repo=Freya-TheVoiceAssistant&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/IHANsaja/Cosmic-Crusade">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IHANsaja&repo=Cosmic-Crusade&theme=tokyonight"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ihan-hansaja-548b45244"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ihanhansaja5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ihan-hansaja-548b45244">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ihanhansaja5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
----
