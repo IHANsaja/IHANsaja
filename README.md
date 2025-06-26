@@ -11,7 +11,7 @@
 - 🛠️ Tech tinkerer & digital creator who loves innovation.
 - 🎮 In my downtime: **Graphic Design**, **Gaming**, and **Content Creation**.
 - 📫 Reach me at: [ihanhansaja5@gmail.com](mailto:ihanhansaja5@gmail.com)
-- 📄 [View My Résumé](https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/resume.pdf)
+- 📄 [View My Résumé](https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/ihan-hansaja-resume.pdf)
 
 ---
 
