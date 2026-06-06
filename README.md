@@ -95,15 +95,15 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=outbreak&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/IHANsaja/freyav3">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=battlezik&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=freyav3&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/IHANsaja/serendib-warehouse-management-system">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=serendib-wms&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=serendib-warehouse-management-system&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/IHANsaja/isabelleugc-website">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=Freya-TheVoiceAssistant&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=isabelleugc-website&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
