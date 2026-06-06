@@ -94,15 +94,15 @@
   <a href="https://github.com/IHANsaja/outbreak">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=outbreak&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/IHANsaja/battlezik">
+  <a href="https://github.com/IHANsaja/freyav3">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=battlezik&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/IHANsaja/serendib-wms">
+  <a href="https://github.com/IHANsaja/serendib-warehouse-management-system">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=serendib-wms&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/IHANsaja/Freya-TheVoiceAssistant">
+  <a href="https://github.com/IHANsaja/isabelleugc-website">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=Freya-TheVoiceAssistant&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
