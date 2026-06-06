@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ihan Hansaja!
 
-![banner](https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/banner.jpg)
+![banner](https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/github.mp4)
 
 ---
 
@@ -14,7 +14,7 @@
 - 🎮 In my downtime: **3D Design**, **Gaming**, and **Content Creation**
 - 📫 Reach me at: [ihanhansaja5@gmail.com](mailto:ihanhansaja5@gmail.com)
 - 🌐 Portfolio: [ihanhansaja.dev](https://www.ihanhansaja.dev)
-- 📄 [View My Résumé](https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/Ihan-resume.pdf)
+- 📄 [View My Résumé](https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/Ihan-Resume.pdf)
 
 ---
 
