@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ihan Hansaja!
 
-<video controls width="720" src="/assets/video.mp4"></video>
+![demo](assets/github.gif)
 ---
 
 ## 🙋 About Me
