@@ -78,12 +78,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IHANsaja&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IHANsaja&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=IHANsaja&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IHANsaja&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IHANsaja&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=IHANsaja&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
@@ -92,18 +92,18 @@
 
 <p align="center">
   <a href="https://github.com/IHANsaja/outbreak">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IHANsaja&repo=outbreak&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=outbreak&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/IHANsaja/battlezik">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IHANsaja&repo=battlezik&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=battlezik&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/IHANsaja/serendib-wms">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IHANsaja&repo=serendib-wms&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=serendib-wms&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/IHANsaja/Freya-TheVoiceAssistant">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IHANsaja&repo=Freya-TheVoiceAssistant&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=IHANsaja&repo=Freya-TheVoiceAssistant&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
