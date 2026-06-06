@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ihan Hansaja!
 
-![banner](https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/github.mp4)
+<video src="https://raw.githubusercontent.com/IHANsaja/IHANsaja/master/assets/github.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ---
 
