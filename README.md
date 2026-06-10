@@ -114,7 +114,7 @@
 - 🏢 **Enterprise Contributor** — SLT-Mobitel digital transformation (smart employee management system)
 - 📡 **Research** — Optimising OFDM network performance using reinforcement learning for 5G systems
 - 🎮 **CINEC E-Sports Competitor** — certified competitor
-- 🎨 **IX24 UI/UX Design Competition** participant
+- 🎨 **IX24 & IX23 UI/UX Design Competition** participant
 
 ---
 
